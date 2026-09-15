@@ -498,7 +498,7 @@ The full-screen screenshot for this task shows:
 
 
 
-\*Insert the full-screen VS Code screenshot here.\*
+![VS Code Configuration Screenshot](Screenshot%202026-09-15%20060054.png)
 
 
 
